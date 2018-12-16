@@ -1,1 +1,1 @@
-web: java -jar classes/artifacts/officemapper_jar/officemapper.jar
+web: java -jar build/libs/officemapper-0.0.1-SNAPSHOT.jar
