@@ -2,6 +2,7 @@
 Restful api for managing users of offices and companies.
 
 Mappings:
+
 POST /users;
 GET /users;
 GET /users/new;
